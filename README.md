@@ -7,7 +7,6 @@ This is a simple To-Do List application built with React.js. It uses useEffect a
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
-- Mark tasks as completed
 - Persistent data storage using localStorage
 
 ## Getting Started
